@@ -59,3 +59,7 @@ npm run lint  # run ESLint
 - DB Timetables is beta and rate-limited to 60 calls/minute.
 - Derived outputs must credit “Deutsche Bahn AG”.
 - The project prefers the official source and keeps Entur as a fallback option.
+
+## JS Speed Before vs After:
+
+Before: 789 kB / 881 kB transferred
